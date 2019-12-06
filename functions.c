@@ -1,5 +1,4 @@
 #include "functions.h"
-#define _CRT_SECURE_NO_WARNINGS
 int modulo(int num,int modNum)
 {
 	return (num % modNum + modNum) % modNum;

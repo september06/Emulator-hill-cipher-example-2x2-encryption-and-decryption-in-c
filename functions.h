@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include<string.h>
-#define _CRT_SECURE_NO_WARNINGS
 
 void tern_string_text_in_matrix(char* text, int mat[][2], int rows, int cols);
 void print_matrix(int m, int n, int mat[][2]);
