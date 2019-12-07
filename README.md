@@ -9,7 +9,7 @@
 
 ![](‏‏decry.PNG)
 
-and as we know h\Hill cipher is linear cipher , so with iterative encryption we will get the plan text: 
+and as we know Hill cipher is linear cipher , so with iterative encryption we will get the plan text: 
 
 
 ![](irt.PNG)
